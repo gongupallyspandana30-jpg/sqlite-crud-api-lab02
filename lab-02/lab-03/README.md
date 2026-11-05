@@ -47,3 +47,12 @@ Postman screenshots are available in the screenshots folder.
 
 ## Conclusion
 Successfully developed a REST API that supports CRUD operations, searching, sorting, price filtering and input validation with appropriate HTTP status codes.
+## Live Deployment
+
+**Deployment Platform:** Render
+
+**Live API URL:**  
+https://sqlite-crud-api-lab02-3.onrender.com
+
+**Books Endpoint:**  
+https://sqlite-crud-api-lab02-3.onrender.com/books
